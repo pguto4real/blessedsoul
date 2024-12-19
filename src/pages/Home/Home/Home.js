@@ -15,14 +15,14 @@ const Home = () => {
         <>
             <HomeHeader/>
             <HomeHeroSection/>
-            <HomeAboutArea/>
-            {/* <HomeServices/> */}
-            <HomeOurTeam/>
+            <HomeAboutArea/> 
+            <HomeServices/>
+            {/* <HomeOurTeam/> */}
             {/* <HomeFact/> */}
             {/* <HomePricing/> */}
             {/* <HomeCta/> */}
             {/* <HomeBlogs/> */}
-            <HomeFooter/>
+            {/* <HomeFooter/> */}
         </>
     );
 };
